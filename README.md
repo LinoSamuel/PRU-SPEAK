@@ -2,6 +2,9 @@
 
 Cloud IDE : http://192.168.7.2:3000/ide.html
 
+Kernel version of debian 3.8.13-git49049588554654c4ac27bf7d3a8c52a90a3c3900
+
+
 
 PRU Speak
 ========
