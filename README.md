@@ -1,5 +1,7 @@
 //Credits : https://github.com/deepakkarki/pruspeak
 
+Cloud IDE : http://192.168.7.2:3000/ide.html
+
 
 PRU Speak
 ========
