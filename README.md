@@ -1,7 +1,11 @@
+//Credits : https://github.com/deepakkarki/pruspeak
+
+
 PRU Speak
 ========
 
 ##What is it
+
 
 PRU Speak is an implementation of the BotSpeak language for the PRU.
 This project enables dynamic control of the Beaglebone black's PRU (Programmable Realtime Unit) from the Linux userspace on ARM. For more information have a look at the [official PRU page](http://beagleboard.org/pru) on beagleboard.org
